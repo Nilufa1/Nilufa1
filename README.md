@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nilufa1
-- 👀 I’m interested in reading books, draw doodles 
-- 🌱 I’m currently learning about AI 
-- 💞️ I’m looking to collaborate with Pinterest,Laneige,Microsoft, Google, LinkedIn 
-- 📫 How to reach me mail: nilufasultana47@gmail.com
+- 👀 likes to read books, draw doodles 
+- 🌱 intrested in ML , LLM  
+- 📫 mail: nilufas891@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Initial computer science wasn't really my side but I ended up in this field 
 <!---
