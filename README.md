@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nilufa1
-- 👀 likes to read books, draw, cook, travel
-- 🌱 intrested in ML
-- 📫 mail: nilufas891@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Initial computer science wasn't really my side but I ended up in this field $ I do not prefer either tea or coffee but tea holds memory
-- But working on ML projects kindof
+-  Hi, I’m @Nilufa1
+-  likes to read books, draw, cook, travel
+-  intrested in ML
+-  mail: nilufas891@gmail.com
+-  Pronouns: she/her
+-  Fun fact: Initial computer science wasn't really my side but I ended up in this field $ I do not prefer either tea or     coffee but tea holds memory
+-  But working on ML projects
