@@ -5,3 +5,4 @@
 -  Pronouns: she/her
 -  Fun fact: Initial computer science wasn't really my side but I ended up in this field $ I do not prefer either tea or     coffee but tea holds memory
 -  But working on ML projects
+ .
